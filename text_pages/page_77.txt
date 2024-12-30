@@ -1,0 +1,119 @@
+Source URL: https://graceautomation.org/autonomous-green-house-scada-system-project/
+
+Autonomous Green House SCADA System Project - Grace Automation and Engineering Services
+Skip to content
+Grace Automation and Engineering Services
+Home
+Services
+Menu Toggle
+Process Automation Solutions
+PLC Programming & HMI Development
+Industrial Network and Communication Solutions
+Robotics and vision systems integration
+SCADA & DCS System Designing
+IIoT 4.0
+Energy Management System (EMS)
+End Of Line Automation
+Support Services
+Projects
+Trainings
+Contact
+Blog
+Grace Automation and Engineering Services
+Main Menu
+Home
+Services
+Menu Toggle
+Process Automation Solutions
+PLC Programming & HMI Development
+Industrial Network and Communication Solutions
+Robotics and vision systems integration
+SCADA & DCS System Designing
+IIoT 4.0
+Energy Management System (EMS)
+End Of Line Automation
+Support Services
+Projects
+Trainings
+Contact
+Blog
+Autonomous Green House SCADA System Project
+Introduction:
+Our company provides services related to industrial automation. We have been providing services for more than 8 years. We provide services related to PLC Programming, HMI designing, SCADA Systems & Process automation.
+Problem Statement:
+Develop a control system for controlling and measuring the different parameters of elements in a greenhouse. Design a SCADA system to monitor and control the system.
+1. Light Detection:
+In the green home, a light sensor is fitted to continuously monitor the light. If the light level falls below the minimum set point, the lights should switch on to boost the light level; otherwise, they should remain off.
+2. Moisture Detection:
+The implanted moisture sensor continuously monitors the level of moisture in the soil. If the moisture level falls below the minimum set point, the irrigation valve should open to raising it; otherwise, it should remain closed. If the moisture level rises above the maximum, the heater should be turned on and the windows should be opened to dry the water and lower the moisture level; otherwise, neither should turn on.
+3. Temperature Measurement:
+The temperature within the greenhouse is constantly monitored by a temperature sensor. If the temperature falls below the minimum set point, the heater should switch on to raise the temperature. When the temperature reaches or exceeds the maximum set point, the cooling system should activate to lower the temperature. When the temperature is at its ideal setting, the heater and cooler should be turned off.
+4. Humidity Detection:
+The humidity level within the greenhouse is constantly monitored by a humidity sensor. If the humidity falls below the minimum specified point, the water sprinkler should activate to raise the humidity. When the humidity level reaches the maximum set point, the heating should turn on and the windows should be opened to reduce the humidity.
+5. Emission of Carbon Dioxide:
+When the button is pressed, a carbon dioxide emitter should activate. When the greenhouse requires carbon dioxide, the emitter should turn on, and carbon dioxide should be sprayed into the space.
+6. Opening of the Door:
+In the greenhouse, an automatic door has been fitted. When a person approaches the entrance, a sensor recognizes them and the door should automatically open. After eight seconds, the door should automatically close. The number of people entering the greenhouse should be kept track of by a counter. This counter should start when a sensor detects a person entering the greenhouse and could be reset using a button.
+Equipment Used:
+1. Code Sys PLC
+3. 24V Relays
+4. Light Sensors
+5. Moisture Sensors
+6. Temperature Sensors
+8. Carbon Dioxide Sensors
+7. Humidity Sensors
+Actions Performed:
+Designing of logic:
+The logic for the control system was designed in the Codesys software, which is a powerful PLC programming tool. The logic was written to control and measure different parameters in the greenhouse.
+Designing of SCADA layout:
+The layout for the SCADA system was designed in the Web Visu Codesys software, which is a web-based visualization tool that helps in creating user-friendly HMI. The layout was designed in such a way as to monitor and control the different parameters in the greenhouse.
+Installation of PLC:
+The PLC was installed at the greenhouse site, where the control system was to be implemented.
+Connection of Inputs and Outputs:
+All the required inputs and outputs, such as light sensors, moisture sensors, temperature sensors, humidity sensors, carbon dioxide sensors, etc. were connected to the PLC. The connections were done as per the logic and design of the control system.
+Autonomous Green House SCADA System Project
+Testing of the system:
+Finally, the functioning of the project was tested successfully to ensure that all the parameters were working as per the design and specifications. The testing was carried out to make sure that the system was functioning properly and was ready for commissioning.
+Outcome:
+The Autonomous Green House SCADA System was successfully installed and provided real-time data and control for the different parameters within the greenhouse environment. The system ensured that the greenhouse conditions were maintained at optimal levels, providing the best environment for the plants to grow. The client was very satisfied with the result and the level of automation provided by the system.
+Post navigation
+←
+Previous Post
+Next Post
+→
+Leave a Comment
+Cancel Reply
+Your email address will not be published.
+Required fields are marked
+*
+Type here..
+Name*
+Email*
+Website
+Save my name, email, and website in this browser for the next time I comment.
+Grace Automation & Engineering Services
+Please enable JavaScript in your browser to complete this form.
+Name
+*
+First
+Last
+Email
+*
+Comment or Message
+*
+Send Message
+Automation Engineer
+Industry Insights and Case Studies in Industrial Automation
+Read More
+Allen Bradley PLC
+Industrial Automation Techniques
+,
+Industrial Automation Technologies
+Read More
+About
+Career
+Terms & Conditions
+Disclaimer
+Privacy Policy
+Copyright © 2024 GraceAutomation.org
+Scroll to Top

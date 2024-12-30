@@ -1,0 +1,93 @@
+Source URL: https://graceautomation.org/trainings/
+
+Trainings - Grace Automation and Engineering Services
+Skip to content
+Grace Automation and Engineering Services
+Home
+Services
+Menu Toggle
+Process Automation Solutions
+PLC Programming & HMI Development
+Industrial Network and Communication Solutions
+Robotics and vision systems integration
+SCADA & DCS System Designing
+IIoT 4.0
+Energy Management System (EMS)
+End Of Line Automation
+Support Services
+Projects
+Trainings
+Contact
+Blog
+Grace Automation and Engineering Services
+Main Menu
+Home
+Services
+Menu Toggle
+Process Automation Solutions
+PLC Programming & HMI Development
+Industrial Network and Communication Solutions
+Robotics and vision systems integration
+SCADA & DCS System Designing
+IIoT 4.0
+Energy Management System (EMS)
+End Of Line Automation
+Support Services
+Projects
+Trainings
+Contact
+Blog
+Our Courses
+We have created multiple online pieces of training for PLC programming. The courses include tasks, examples with solutions, and well-explained video lectures. People looking for a future in industrial automation and interested in learning  PLC and HMI programming can visit and enroll in the courses listed below to begin their careers in industrial automation.
+Siemens - TIA Portal
+It is a comprehensive course for learning the
+basic level programming of Siemens S7 1200/1500 PLC in TIA Portal V15 software
+. You will learn the logic designing of the TIA Portal from scratch in a short period. No hardware equipment is required to follow the course. You will have to install TIA Portal V15 software on the PC you are ready. The fundamentals of programming for the TIA Portal will be covered. Including the video lectures, assignments, and solved examples
+Course Outline
+Buy Course
+Mitsubishi - GX Developer
+It is a comprehensive course for learning the basic level programming of Mitsubishi PLC in GX Developer software. You will learn the logic designing of GX Developer from scratch in a short period. No hardware equipment is required to follow the course. Install GX Developer software on your PC and you are good to go. The fundamentals of GX Developer programming will be covered also. Including video lectures and solved examples.
+Course Outline
+Buy Course
+Beckhoff - TwinCat3
+It is a comprehensive course for learning the basic level programming of Beckhoff PLC in TwinCat3 software. You will learn the logic designing of TwinCat3 from scratch. No hardware equipment is required to follow the course. Just install TwinCat3 software on your PC and you can do it. The fundamental of TwinCat3 programming will be covered step by step through video lectures and assignments.
+Course Outline
+Buy Course
+Allen Bradley - RS Logix 5000
+It is a comprehensive course for learning the basic level programming of Allen Bradley PLC in RS Logix 5000 software. You will learn the logic designing of RS Logix 5000 from scratch in a short period. No hardware equipment will be required to follow the course. You will have to install RS Logix 5000 software on your PC and you are good to go. The fundamentals of RS Logix 5000 programming will be covered. It includes video lectures and assignments.
+Course Outline
+Buy Course
+Allen Bradley - Micro Logix
+It is a comprehensive course for learning the basic level programming of Allen Bradley PLC in Micro Logix software. You will learn the logic designing of Micro Logix from scratch in a short period. No hardware equipment will be required to follow the course, you will just have to install Micro Logix software on your PC and you are good to go. The fundamentals of Micro Logix programming will be covered. Including the video lectures, and assignments.
+Course Outline
+Buy Course
+Delta - WPL Soft
+It is a comprehensive course for learning the basic level programming of Delta PLC in WPL Soft software. You will learn the logic designing of WPL Soft from scratch in a short period. No hardware equipment will be required to follow the course, you will just have to install WPL Soft software on your PC and you are good to go. The fundamentals of WPL Soft programming will be covered. The course includes video lectures and assignments.
+Course Outline
+Buy Course
+Grace Automation & Engineering Services
+Please enable JavaScript in your browser to complete this form.
+Name
+*
+First
+Last
+Email
+*
+Comment or Message
+*
+Send Message
+Automation Engineer
+Industry Insights and Case Studies in Industrial Automation
+Read More
+Allen Bradley PLC
+Industrial Automation Techniques
+,
+Industrial Automation Technologies
+Read More
+About
+Career
+Terms & Conditions
+Disclaimer
+Privacy Policy
+Copyright © 2024 GraceAutomation.org
+Scroll to Top

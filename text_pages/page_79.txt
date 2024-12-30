@@ -1,0 +1,101 @@
+Source URL: https://graceautomation.org/automated-car-parking-system-project/
+
+Automated Car Parking System Project - Grace Automation and Engineering Services
+Skip to content
+Grace Automation and Engineering Services
+Home
+Services
+Menu Toggle
+Process Automation Solutions
+PLC Programming & HMI Development
+Industrial Network and Communication Solutions
+Robotics and vision systems integration
+SCADA & DCS System Designing
+IIoT 4.0
+Energy Management System (EMS)
+End Of Line Automation
+Support Services
+Projects
+Trainings
+Contact
+Blog
+Grace Automation and Engineering Services
+Main Menu
+Home
+Services
+Menu Toggle
+Process Automation Solutions
+PLC Programming & HMI Development
+Industrial Network and Communication Solutions
+Robotics and vision systems integration
+SCADA & DCS System Designing
+IIoT 4.0
+Energy Management System (EMS)
+End Of Line Automation
+Support Services
+Projects
+Trainings
+Contact
+Blog
+Automated Car Parking System Project
+Introduction:
+Our company provides services related to industrial automation. With over 8 years of experience in the field of PLC Programming, HMI designing, SCADA Systems & Process automation, we executed a project to develop an Automated Car Parking System.
+Problem Statement:
+The goal of the Automated Car Parking System project is to design and implement a control system for a fee-paying car park that has a limited number of spaces available. The system should be able to control the entrance and exit barriers, keep track of the number of cars that are parked, and provide information on the status of the car park (full or spaces available).
+Solution:
+To address the problem statement, our company designed and implemented an automated car parking system. The system consisted of several key components, including a Mitsubishi PLC, proximity sensors, barriers, and indicators. The main goal of the system was to control the entry and exit of cars in a fee-paying parking lot with a limited number of spaces.
+The driver gains access to the car park by depositing a coin in the coin box at the entry. Upon deposit, the barrier rises to allow entry and remains open for 15 seconds. After that, the barrier drops until the next coin is deposited. The exit barrier rises automatically when a departing car approaches it by passing over an inductive vehicle sensor. The barrier rises for 25 seconds and then drops.
+The system was designed to count the cars entering the park, with a maximum capacity of 30 cars. If the park is full, an indicator “FULL” is turned on, and if there are fewer cars parked, an indicator “SPACE” is turned on. A manual reset button is provided to reset the number of available parking spaces to zero.
+The logic for the system was designed using GX Developer software, and the PLC was installed on-site. All inputs and outputs were connected, and the functioning of the project was tested successfully.
+System Functionality:
+Entry:
+The driver gains access to the car park by depositing a coin in the coin box at the entry. After depositing the coin, the barrier should rise to permit entry, it should remain open for 15 seconds, and then drop again until the next coin is deposited. The barrier has up-and-down proximity sensors.
+Exit:
+The exit barrier should rise automatically when a departing car approaches it. When a car approaches the exit barrier, it passes over the inductive vehicle sensor. The barrier should rise for 5 seconds and then should drop.
+Car Counting:
+Cars entering the park are counted. The maximum space available is for 30 cars. When the park is full, an indicator “FULL” should be ON. If cars parked are less than 30, an indicator “SPACE” should be ON.
+Reset:
+A manual reset button should reset the parking spaces available to zero.
+Conclusion:
+The Automated Car Parking System was successfully developed and installed, ensuring secure and efficient entry and exit of cars in the parking stand. Our team of experts in industrial automation delivered a high-quality solution that met the requirements of the client.
+Post navigation
+←
+Previous Post
+Next Post
+→
+Leave a Comment
+Cancel Reply
+Your email address will not be published.
+Required fields are marked
+*
+Type here..
+Name*
+Email*
+Website
+Save my name, email, and website in this browser for the next time I comment.
+Grace Automation & Engineering Services
+Please enable JavaScript in your browser to complete this form.
+Name
+*
+First
+Last
+Email
+*
+Comment or Message
+*
+Send Message
+Automation Engineer
+Industry Insights and Case Studies in Industrial Automation
+Read More
+Allen Bradley PLC
+Industrial Automation Techniques
+,
+Industrial Automation Technologies
+Read More
+About
+Career
+Terms & Conditions
+Disclaimer
+Privacy Policy
+Copyright © 2024 GraceAutomation.org
+Scroll to Top

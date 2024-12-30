@@ -1,0 +1,115 @@
+Source URL: https://graceautomation.org/autonomous-grain-mixing-system-project/
+
+Autonomous Grain Mixing System Project - Grace Automation and Engineering Services
+Skip to content
+Grace Automation and Engineering Services
+Home
+Services
+Menu Toggle
+Process Automation Solutions
+PLC Programming & HMI Development
+Industrial Network and Communication Solutions
+Robotics and vision systems integration
+SCADA & DCS System Designing
+IIoT 4.0
+Energy Management System (EMS)
+End Of Line Automation
+Support Services
+Projects
+Trainings
+Contact
+Blog
+Grace Automation and Engineering Services
+Main Menu
+Home
+Services
+Menu Toggle
+Process Automation Solutions
+PLC Programming & HMI Development
+Industrial Network and Communication Solutions
+Robotics and vision systems integration
+SCADA & DCS System Designing
+IIoT 4.0
+Energy Management System (EMS)
+End Of Line Automation
+Support Services
+Projects
+Trainings
+Contact
+Blog
+Autonomous Grain Mixing System Project
+Introduction:
+Our company provides services related to industrial automation. We have been providing services for more than 8 years. We provide services related to PLC Programming, HMI designing, SCADA Systems & Process automation.
+Problem Statement:
+The client was facing the challenge of manual mixing of different grains in specific quantities for their grain processing plant. The manual process was time-consuming, prone to errors, and required constant supervision. To address this challenge, our company was approached to provide an automated solution.
+Automated mixing of the specific quantity of different grains.
+1. Grains from five different hoppers need to transfer to a mixer through conveyors and then after mixing, the mixture needs to unload.
+2. Before pressing the start button the emergency switch (normally closed) should be off and all the hoppers’ gates should be closed. The closure of gates may be detected by the sensor.
+3. After pressing the start button a horn should run for 10s and then each hopper should drop a specific weight on the under-hopper conveyor and then should close. Weight should be measured by a weight sensor.
+4. Under-hopper conveyor and transfer conveyor should be started immediately when the hopper starts dropping grains.
+5. When all the hoppers complete dropping and grains are transferred into the mixer, the under-hopper conveyor and transfer conveyor should stop and the mixer should run, in the forward direction, for the specific time given by HMI.
+6. After completion of mixing mixer should stop and then should run in the reverse direction, until the mixture gets empty, to unload the mixture. Unload conveyor and long transfer conveyor should also run along the mixer reverse running.
+7. Process should wait for the start to repeat the cycle.
+8. HMI layout should be designed for all the inputs and outputs.
+Solution Provided:
+Our team of experts carried out an in-depth analysis of the client’s requirements and provided them with a customized solution. We designed and implemented an autonomous grain mixing system that consisted of five hoppers, conveyors, a grain mixer, and a control system. The control system consisted of a Domore PLC, I/O card, load cells, proximity sensors, a horn, level sensors, and a SCADA system designed using the Codesys software and Codesys WebVisu.
+The system was designed to automatically mix specific quantities of different grains and unload the mixture efficiently. The start of the process was initiated by pressing the start button and all the hoppers’ gates had to be closed, as confirmed by the proximity sensors. After pressing the start button, a horn was sounded for 10 seconds, and each hopper dropped a specific weight of grains, which was measured by the load cells. The under-hopper conveyor and transfer conveyor were started immediately to transfer the grains to the mixer. After all the hoppers completed dropping the grains, the mixer was run in the forward direction for a specific time, as given by the HMI. Once the mixing was complete, the mixer was run in the reverse direction to unload the mixture, and the unload conveyor and long transfer conveyor was also run along with the mixer.
+1. Logic was designed in the Codesys Software.
+2. Codesys WebVisu software was used to design the SCADA.
+3. Simulation was run and the functionality of logic was tested successfully.
+4. PLC was installed and programmed on-site.
+5. All the sensors, actuators, and conveyors were integrated with the PLC.
+6. Real-time monitoring of the grain mixing process was enabled through the SCADA system.
+7. The automated grain mixing system was commissioned and tested successfully for its performance and accuracy.
+Equipment Used:
+1. Domore PLC along with an I/O card
+2. Load cells
+3. Proximity sensors
+4. Horn
+5. Level sensors
+6. Hoppers
+7. Conveyors
+8. Grain Mixer
+Conclusion:
+The system was thoroughly tested and commissioned, and its performance was found to be accurate and consistent. The automated grain mixing system improved the efficiency and accuracy of the grain mixing process, reducing manual effort and errors. The client was satisfied with the solution and the project was completed.
+Post navigation
+←
+Previous Post
+Next Post
+→
+Leave a Comment
+Cancel Reply
+Your email address will not be published.
+Required fields are marked
+*
+Type here..
+Name*
+Email*
+Website
+Save my name, email, and website in this browser for the next time I comment.
+Grace Automation & Engineering Services
+Please enable JavaScript in your browser to complete this form.
+Name
+*
+First
+Last
+Email
+*
+Comment or Message
+*
+Send Message
+Automation Engineer
+Industry Insights and Case Studies in Industrial Automation
+Read More
+Allen Bradley PLC
+Industrial Automation Techniques
+,
+Industrial Automation Technologies
+Read More
+About
+Career
+Terms & Conditions
+Disclaimer
+Privacy Policy
+Copyright © 2024 GraceAutomation.org
+Scroll to Top

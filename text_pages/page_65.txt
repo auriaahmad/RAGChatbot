@@ -1,0 +1,168 @@
+Source URL: https://graceautomation.org/allen-bradley-micro-logix-training/
+
+Allen Bradley - Micro Logix Training - Grace Automation and Engineering Services
+Skip to content
+Grace Automation and Engineering Services
+Home
+Services
+Menu Toggle
+Process Automation Solutions
+PLC Programming & HMI Development
+Industrial Network and Communication Solutions
+Robotics and vision systems integration
+SCADA & DCS System Designing
+IIoT 4.0
+Energy Management System (EMS)
+End Of Line Automation
+Support Services
+Projects
+Trainings
+Contact
+Blog
+Grace Automation and Engineering Services
+Main Menu
+Home
+Services
+Menu Toggle
+Process Automation Solutions
+PLC Programming & HMI Development
+Industrial Network and Communication Solutions
+Robotics and vision systems integration
+SCADA & DCS System Designing
+IIoT 4.0
+Energy Management System (EMS)
+End Of Line Automation
+Support Services
+Projects
+Trainings
+Contact
+Blog
+Allen Bradley – Micro Logix Training
+It is a comprehensive course for learning the basic level programming of Allen Bradley PLC in Micro Logix software. You will learn the logic designing of Micro Logix from scratch in a short period. No hardware equipment will be required to follow the course, you will just have to install Micro Logix software on your PC and you are good to go. The fundamentals of Micro Logix programming will be covered. Including the video lectures, and assignments.
+Buy Course
+Course Introduction
+This course is for Electrical, Electronics, Mechanical, or Mechatronics Engineers and Diploma holders.
+A person knowing about Digital Logic Design is Eligible for this training on Programming Logic Controllers.
+There will be an emphasis on the hardware and software interface of PLC.
+This course aims to provide a strong foundation for students to excel in Control and Automation field.
+Requirement
+: Laptop/PC
+Training
+Mode: Online Lectures and Q/A sessions after every lecture.
+Software
+: RS Logix 500 + Simulator (A download link will be provided)
+Instructor:
+Muhammad Raza Khalid
+Graduate in Electronics Engineering.
+Masters in Project Management.
+5 years+ experience in the field of industrial automation.
+Course Outline
+1. Introduction to Course
+2. Introduction of Relay Logic
+3. PLC Wiring
+PLC Block Diagram
+PLC Inputs and Outputs
+Working Principle of PLC
+PLC Communication Protocols
+PLC Wiring
+Sink/Source
+NPN & PNP Sensors
+4. Download and Install Software
+5. Basics of RS Logix 500 Software and Communication with PLC
+PLC Specification
+Software Interface
+How to Create Tags
+Making First Program on Simulator
+Setting up Communication
+How to Monitor the Program Online
+How to Load Program in Simulator
+How to Build Ethernet Connection with PLC and Load Program
+6. Basic Parameters
+Normally Open Contact
+Normally Close Contact
+Output Coil
+Series-AND Logic
+Parallel-OR Logic
+Parallel-NAND Logic
+Series-NOR Logic
+Assignment_1
+7. General Internal Memories
+8. Latching
+Latch and Unlatch an Output
+Set and Reset an Output
+9. Timers
+On Delay Timer
+Enable of Timer
+Specifying the Duration of Time
+Resetting a Timer
+Off-Delay Timer
+Retentive On-Delay Timer
+Assignment_3
+Pulse Timer / TP Timer
+Generating a Pulse of Specific Time Interval
+Assignment_2
+10. Counters
+Up Counter
+Enable of Counter
+Specifying the Value to be Counted
+Resetting a Counter
+Down Counter
+Up-Down-Counters
+Assignment_3
+11. Arithmetic Operations
+Addition
+Subtraction
+Multiplication
+Division
+Moving Operands
+Moving Constants
+12. Comparator operations
+Equal (=)
+Less Than (>)
+Greater Than (<)
+Less Than or Equal (>=)
+Greater Than or Equal (<=)
+13. Designing of Complex Systems using Ladder Logic
+Assignment (Chemical Processing Unit)
+Buy Course
+Post navigation
+←
+Previous Post
+Next Post
+→
+Leave a Comment
+Cancel Reply
+Your email address will not be published.
+Required fields are marked
+*
+Type here..
+Name*
+Email*
+Website
+Save my name, email, and website in this browser for the next time I comment.
+Grace Automation & Engineering Services
+Please enable JavaScript in your browser to complete this form.
+Name
+*
+First
+Last
+Email
+*
+Comment or Message
+*
+Send Message
+Automation Engineer
+Industry Insights and Case Studies in Industrial Automation
+Read More
+Allen Bradley PLC
+Industrial Automation Techniques
+,
+Industrial Automation Technologies
+Read More
+About
+Career
+Terms & Conditions
+Disclaimer
+Privacy Policy
+Copyright © 2024 GraceAutomation.org
+Scroll to Top

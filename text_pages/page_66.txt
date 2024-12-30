@@ -1,0 +1,99 @@
+Source URL: https://graceautomation.org/electro-plating-automation-through-hoist-project/
+
+Electro Plating Automation through Hoist Project - Grace Automation and Engineering Services
+Skip to content
+Grace Automation and Engineering Services
+Home
+Services
+Menu Toggle
+Process Automation Solutions
+PLC Programming & HMI Development
+Industrial Network and Communication Solutions
+Robotics and vision systems integration
+SCADA & DCS System Designing
+IIoT 4.0
+Energy Management System (EMS)
+End Of Line Automation
+Support Services
+Projects
+Trainings
+Contact
+Blog
+Grace Automation and Engineering Services
+Main Menu
+Home
+Services
+Menu Toggle
+Process Automation Solutions
+PLC Programming & HMI Development
+Industrial Network and Communication Solutions
+Robotics and vision systems integration
+SCADA & DCS System Designing
+IIoT 4.0
+Energy Management System (EMS)
+End Of Line Automation
+Support Services
+Projects
+Trainings
+Contact
+Blog
+Electro Plating Automation through Hoist Project
+Introduction:
+Our company specializes in providing industrial automation services, including PLC Programming, HMI Designing, SCADA Systems and Process Automation. Our team of experts has executed a successful project of Electro Plating Automation through Hoist, which aimed to automate the process of metallic electro plating through an overhead hoist.
+Problem Statement:
+The process of electroplating is an important step in many industries to provide a metallic layer on the surface of objects. A typical electroplating process involves multiple steps of dipping the object in different chemical baths. To automate this process, our company was approached to provide a solution through an overhead hoist. The hoist was required to carry the objects through different stages of the process and dip them in specific containers for a specific duration, depending upon the selected recipe.
+The client wanted the system to have two modes of operation – auto mode, where the hoist would work according to the recipe selected from the HMI, and manual mode, where the user would have access to control the movement of the hoist through a pendant. Additionally, the client wanted the hoist to initially be in a parked position and move to the racking station when a new object was detected. After processing, the hoist was required to drop the object on the packing station and return to the parking position if there was no new object, or to the racking station if there was.
+Solution Provided:
+Our company provided a complete solution for the automation of the Electro Plating process through an overhead hoist. The problem statement was to automate the metallic electro plating process through an overhead hoist that carried the object through different steps of the process.
+To solve this problem, we used Siemens PLC and HMI as the control system. The hoist was equipped with limit switches to indicate its position and a trolley was used to carry the object through the process.
+We designed the control logic and HMI layout in the TIA Portal Software. All the inputs and outputs were then connected to the system. The system was tested by running a simulation and the functionality of the logic was successfully tested.
+In the Auto mode, the hoist would work according to the recipe selected from the HMI. The hoist would move to the racking station when an object was detected and then pick up the object from the pickup station. The hoist would then dip the object into different containers for a specific time, depending on the recipe selected from the HMI. After processing through the containers, the hoist would drop the object on the packing station. If there was a new object at the racking station, the hoist would move back to the racking station, otherwise it would move back to the parking position.
+In the Manual mode, the user would have access to the movement of the hoist through a pendant. The recipes could be added and loaded from the HMI.
+This solution successfully automated the Electro Plating process, increasing efficiency and reducing the need for manual labor.
+Working of the System:
+The hoist initially starts at the parking position and moves to the racking station when an object is detected. The hoist then picks up the object from the pickup station and dips it in different containers as per the recipe selected from the HMI.
+After processing through the containers, the hoist drops the object at the packing station and moves back to the racking station if a new object is present. In case no new object is present, the hoist moves back to the parking station.
+The system operates in two modes – auto mode and manual mode. In auto mode, the hoist works according to the recipe selected from the HMI, and in manual mode, the user can control the movement of the hoist through the pendant. Recipes can be added and loaded from the HMI.
+Conclusion:
+Our team of experts executed the Electro Plating Automation through Hoist project successfully, meeting the client’s needs and requirements. The automated solution based on Siemens PLC and HMI made the process of metallic electro-plating more efficient and error-free. The successful simulation run of the system verified its functionality and performance, providing the client with a reliable and robust solution.
+Post navigation
+←
+Previous Post
+Next Post
+→
+Leave a Comment
+Cancel Reply
+Your email address will not be published.
+Required fields are marked
+*
+Type here..
+Name*
+Email*
+Website
+Save my name, email, and website in this browser for the next time I comment.
+Grace Automation & Engineering Services
+Please enable JavaScript in your browser to complete this form.
+Name
+*
+First
+Last
+Email
+*
+Comment or Message
+*
+Send Message
+Automation Engineer
+Industry Insights and Case Studies in Industrial Automation
+Read More
+Allen Bradley PLC
+Industrial Automation Techniques
+,
+Industrial Automation Technologies
+Read More
+About
+Career
+Terms & Conditions
+Disclaimer
+Privacy Policy
+Copyright © 2024 GraceAutomation.org
+Scroll to Top

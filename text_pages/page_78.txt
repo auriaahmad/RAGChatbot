@@ -1,0 +1,109 @@
+Source URL: https://graceautomation.org/automated-liquid-soap-manufacturing-project/
+
+Automated Liquid Soap Manufacturing Project - Grace Automation and Engineering Services
+Skip to content
+Grace Automation and Engineering Services
+Home
+Services
+Menu Toggle
+Process Automation Solutions
+PLC Programming & HMI Development
+Industrial Network and Communication Solutions
+Robotics and vision systems integration
+SCADA & DCS System Designing
+IIoT 4.0
+Energy Management System (EMS)
+End Of Line Automation
+Support Services
+Projects
+Trainings
+Contact
+Blog
+Grace Automation and Engineering Services
+Main Menu
+Home
+Services
+Menu Toggle
+Process Automation Solutions
+PLC Programming & HMI Development
+Industrial Network and Communication Solutions
+Robotics and vision systems integration
+SCADA & DCS System Designing
+IIoT 4.0
+Energy Management System (EMS)
+End Of Line Automation
+Support Services
+Projects
+Trainings
+Contact
+Blog
+Automated Liquid Soap Manufacturing Project
+Background:
+The client was in the business of producing liquid soap and was seeking to automate the process to improve efficiency and reduce human error. Our company was tasked with designing and implementing an automated solution to handle the production process.
+Problem Statement:
+The problem addressed by the Automated Liquid Soap Manufacturing project was the need for a more efficient, automated process for producing liquid soap. The traditional manual process of producing liquid soap was time-consuming, labor-intensive, and prone to errors. The goal of this project was to develop a solution that would automate the entire production process, from the feeding of the raw materials to the final storage of the finished product, while maintaining the highest level of accuracy and consistency.
+The problem statement specifically identified the following steps in the liquid soap production process:
+Caustic soda and water are mixed in a vessel and left to cool for 24 hours.
+Soda ash, STPP, and SLS are mixed with water in their respective vessels for 20 minutes.
+Texapon and Sulphonic acid are mixed with water in a sulphonic acid vessel, with Nitrosol gradually added over 1 hour.
+The mixture from step 3 is combined with the mixture in the Nitrosol (final product) vessel, which contains Nitrosol and water.
+The remaining unit operations (caustic soda+water, Soda ash+water, STPP+water, and SLS+water) are added to the main mixing vessel in a specific order and mixed for another 30 minutes.
+Foam booster and fragrance are added to the mixture.
+Color is mixed with water and added to the final product.
+Fomaline is added to the final product.
+The finished liquid soap is stored in a storage tank after a 24-hour waiting period.
+To solve this problem, a system was developed that utilized an Allen Bradley PLC with an I/O card, level sensors, capacitive sensors, and robotic arms for mixing, mixing containers, conveyors, and storage tanks. The logic and HMI layout were designed using the CCW Software, and all inputs and outputs were connected. The system was tested successfully through simulation, ensuring that all processes were automated and performed with the highest level of accuracy and consistency.
+Solution Provided:
+Our company was approached by a leading liquid soap manufacturing company to automate its production process. The goal of the project was to streamline the production process and make it more efficient, reliable, and safe.
+The production process of the liquid soap was broken down into 8 steps, each step requiring a specific set of operations to be performed in a certain order. Our team of experts analyzed the production process and identified areas where automation could be implemented to improve efficiency and accuracy.
+We designed and implemented a solution using Allen Bradley PLC along with I/O cards, level sensors, capacitive sensors, robotic arms for mixing, and storage tanks. The logic and HMI layout were designed in the CCW software, and all the inputs and outputs were connected.
+The simulation was run and the functionality of the logic was tested successfully. The level sensors were used to monitor the level of liquids in the mixing vessels, and the capacitive sensors were used to detect the presence of liquids. The robotic arms were used for mixing the liquids in the vessels, ensuring proper mixing and preventing manual labor.
+The final product was stored in the Liquid soap storage tank and the production process was automated to repeat itself after 24 hours. Our solution also incorporated a 10-minute delay, which sent a signal to the operator in the control room to either repeat the process or stop production.
+The implementation of automation in the liquid soap manufacturing process improved efficiency and accuracy reduced manual labor and increased production capacity. The project was a huge success, and our client was extremely satisfied with the results.
+Implementation:
+The inputs and outputs were connected, and the functionality of the logic was tested through simulation. The solution was able to accurately monitor and control each stage of the production process, from the mixing of different ingredients to the final storage of the liquid soap product. The 10-minute delay after the final step allowed the operator to repeat the process or stop it if necessary.
+Outcome:
+The implementation of the automation solution resulted in improved efficiency and reduced human error in the production process. The solution was able to monitor and control the entire process from a central location, ensuring that each step was executed correctly. This helped the client to produce a consistent, high-quality product, and improve their overall operations.
+Conclusion:
+The implementation of the Automated Liquid Soap Manufacturing system was a success and demonstrated our expertise in industrial automation. Our team was able to design and implement a solution that met the client’s requirements, resulting in improved efficiency and reduced human error. We are proud to have added this project to our portfolio, and we look forward to working on similar projects in the future.
+Post navigation
+←
+Previous Post
+Next Post
+→
+Leave a Comment
+Cancel Reply
+Your email address will not be published.
+Required fields are marked
+*
+Type here..
+Name*
+Email*
+Website
+Save my name, email, and website in this browser for the next time I comment.
+Grace Automation & Engineering Services
+Please enable JavaScript in your browser to complete this form.
+Name
+*
+First
+Last
+Email
+*
+Comment or Message
+*
+Send Message
+Automation Engineer
+Industry Insights and Case Studies in Industrial Automation
+Read More
+Allen Bradley PLC
+Industrial Automation Techniques
+,
+Industrial Automation Technologies
+Read More
+About
+Career
+Terms & Conditions
+Disclaimer
+Privacy Policy
+Copyright © 2024 GraceAutomation.org
+Scroll to Top
